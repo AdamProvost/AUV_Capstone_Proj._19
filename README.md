@@ -1,2 +1,2 @@
 # AUV_Capstone_Proj._19
-improving AUV to allow for long distance communication and active collision avoidance
+Our project is to improve an existing autonomous underwater vehicle’s (AUV) navigation by adding active collision avoidance hardware and software. Our sponsors Metron Inc and PSU NEAR Lab plan to use the AUV for acoustics research and in the search for historical shipwrecks in conjunction with the Maritime Archaeological Society. We are working in an interdisciplinary team of MEs and ECEs since our choice in sensor must be compatible with a new nose cone developed by the ME team. 
